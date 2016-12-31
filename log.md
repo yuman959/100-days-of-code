@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: Jan 3 2017
+### Day 0: Dec 30 2016
 
-**Today's Progress**:
+**Today's Progress**: I completed 200 challenges on FreeCodeCamp and I'm 25 challenges away from finishing JavaScript module
 
-**Thoughts:**
+**Thoughts:** Lots of progress! :-)
 
 **Link to work:**
 
@@ -18,6 +18,14 @@
 
 
 ### Day 2: Jan 5 2017
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 3: Jan 5 2017
 
 **Today's Progress**:
 
