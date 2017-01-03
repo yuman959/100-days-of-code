@@ -8,16 +8,16 @@
 
 **Link to work:**
 
-### Day 1: Jan 4 2017
+### Day 2: Jan 2 2017
 
-**Today's Progress**:
+**Today's Progress**: The challenge exercise for arrays/objects was a bit confusing but I worked it out. Started functional programming module.
 
-**Thoughts**:
+**Thoughts**: I like the arrays/objects challenge. It's just like lists & tables.
 
 **Link(s) to work**:
 
 
-### Day 2: Jan 5 2017
+### Day 3: Jan 5 2017
 
 **Today's Progress**:
 
@@ -25,7 +25,7 @@
 
 **Link(s) to work**
 
-### Day 3: Jan 5 2017
+### Day 4: Jan 5 2017
 
 **Today's Progress**:
 
