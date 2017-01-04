@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Dec 30 2016
+### Day 1: Dec 30 2016
 
 **Today's Progress**: I completed 200 challenges on FreeCodeCamp and I'm 25 challenges away from finishing JavaScript module
 
@@ -17,11 +17,11 @@
 **Link(s) to work**:
 
 
-### Day 3: Jan 5 2017
+### Day 3: Jan 3 2017
 
-**Today's Progress**:
+**Today's Progress**: half way to functional programming (advanced objects topic)
 
-**Thoughts**
+**Thoughts** I find it hard to transition to the constructor concept (this expression). The example challenge is very confusing - I just haven't seen enough use cases yet. It will get better.
 
 **Link(s) to work**
 
