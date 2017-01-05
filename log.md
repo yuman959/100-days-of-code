@@ -27,7 +27,7 @@
 
 ### Day 4: Jan 5 2017
 
-**Today's Progress**:
+**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
 
 **Thoughts**
 
