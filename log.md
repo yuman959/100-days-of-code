@@ -19,9 +19,72 @@
 
 ### Day 3: Jan 3 2017
 
-**Today's Progress**: half way to functional programming (advanced objects topic)
+**Today's Progress**: Half way to functional programming (advanced objects topic)
 
 **Thoughts** I find it hard to transition to the constructor concept (this expression). The example challenge is very confusing - I just haven't seen enough use cases yet. It will get better.
+
+**Link(s) to work**
+
+### Day 4: Jan 5 2017
+
+**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 5: Jan 7 2017
+
+**Today's Progress**: Worked on challenges that manipulate strings (split, join, case, pick certain string character etc.)
+
+**Thoughts** There are always multiple ways to solve the same problem. It helps with collateral thinking and critical thinking.
+
+**Link(s) to work**
+
+### Day 4: Jan 5 2017
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 4: Jan 5 2017
+
+**Today's Progress**:
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 4: Jan 5 2017
+
+**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 4: Jan 5 2017
+
+**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 4: Jan 5 2017
+
+**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 4: Jan 5 2017
+
+**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+
+**Thoughts**
 
 **Link(s) to work**
 
