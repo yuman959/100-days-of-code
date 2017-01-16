@@ -41,11 +41,11 @@
 
 **Link(s) to work**
 
-### Day 4: Jan 5 2017
+### Day 6: Jan 15 2017
 
-**Today's Progress**:
+**Today's Progress**: Finished 4 challenges in basic algorithm scripting.
 
-**Thoughts**
+**Thoughts**: Got really busy last week. Will try to stay on course.
 
 **Link(s) to work**
 
