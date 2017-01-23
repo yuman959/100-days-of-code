@@ -49,11 +49,11 @@
 
 **Link(s) to work**
 
-### Day 4: Jan 5 2017
+### Day 7: Jan 21 2017
 
-**Today's Progress**:
+**Today's Progress**: Got stuck on the filter false boolean value for a couple of days.. In the end the solution is incredibly simple.
 **Thoughts**
-
+Getting more comfortable with quickly learning different method and apply it in the challenge. Hopefully wrap up the challenges soon! 
 **Link(s) to work**
 
 ### Day 4: Jan 5 2017
