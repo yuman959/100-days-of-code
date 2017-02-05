@@ -53,14 +53,14 @@
 
 **Today's Progress**: Got stuck on the filter false boolean value for a couple of days.. In the end the solution is incredibly simple.
 **Thoughts**
-Getting more comfortable with quickly learning different method and apply it in the challenge. Hopefully wrap up the challenges soon! 
+Getting more comfortable with quickly learning different method and apply it in the challenge. Hopefully wrap up the challenges soon!
 **Link(s) to work**
 
-### Day 4: Jan 5 2017
+### Day 8: Feb 5 2017
 
-**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+**Today's Progress**: Finished JSON APIs and AJAX. Getting started with intermediate front end projects!
 
-**Thoughts**
+**Thoughts** It's been a while since the update. The Basic Algorithm Scripting is quite challenging especially towards the end and took me days to fully solve and understand one problem. Very hard to enforce the daily coding schedule. Def. will be more consistent next week.
 
 **Link(s) to work**
 
