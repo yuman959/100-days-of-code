@@ -64,11 +64,10 @@ Getting more comfortable with quickly learning different method and apply it in 
 
 **Link(s) to work**
 
-### Day 4: Jan 5 2017
+### Day 9: Feb 11 2017
 
-**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
-
-**Thoughts**
+**Today's Progress**: After struggling for a couple of days for APIs, I finally got a little hang of it and started building simple API with python (following my previous technical marketing course).
+**Thoughts**  API is a really interesting topic b/c learning how to connect with and leverage other apps are super fun and useful. Beneficial for work too. Good timing!
 
 **Link(s) to work**
 
