@@ -79,13 +79,13 @@ Getting more comfortable with quickly learning different method and apply it in 
 
 **Link(s) to work** http://codepen.io/yuman959/pen/NpKXEL?editors=0000
 
-### Day 4: Jan 5 2017
+### Day 11: Jan 7=27 2017
 
-**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+**Today's Progress**: Finally finished the first API exercise - Random Quotes Machine!
 
-**Thoughts**
+**Thoughts**  Great learning experience. Very stuck. But researching + asking friends help a lot. Looking forward to the next API project!
 
-**Link(s) to work**
+**Link(s) to work** https://codepen.io/yuman959/pen/NpKXEL
 
 ### Day 4: Jan 5 2017
 
