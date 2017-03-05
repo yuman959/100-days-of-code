@@ -91,6 +91,6 @@ Getting more comfortable with quickly learning different method and apply it in 
 
 **Today's Progress**: Made good progress on the Weather API!
 
-**Thoughts**  Errors encountered: have to add jQuery library; delete http:// for codepen.io; work; Remember to add http:// before the requested API URL. 
+**Thoughts**  Errors encountered: have to add jQuery library; delete http:// for codepen.io; work; Remember to add http:// before the requested API URL.
 
-**Link(s) to work**
+**Link(s) to work** http://codepen.io/yuman959/pen/RprqKV
