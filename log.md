@@ -87,10 +87,10 @@ Getting more comfortable with quickly learning different method and apply it in 
 
 **Link(s) to work** https://codepen.io/yuman959/pen/NpKXEL
 
-### Day 4: Jan 5 2017
+### Day 12: Mar 3 2017
 
-**Today's Progress**: Array method is fun and intuitive! Moved through them quickly. Onto the Basic Algorithm Scripting challenges!
+**Today's Progress**: Made good progress on the Weather API!
 
-**Thoughts**
+**Thoughts**  Errors encountered: have to add jQuery library; delete http:// for codepen.io; work; Remember to add http:// before the requested API URL. 
 
 **Link(s) to work**
