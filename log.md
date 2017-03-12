@@ -94,3 +94,19 @@ Getting more comfortable with quickly learning different method and apply it in 
 **Thoughts**  Errors encountered: have to add jQuery library; delete http:// for codepen.io; work; Remember to add http:// before the requested API URL.
 
 **Link(s) to work** http://codepen.io/yuman959/pen/RprqKV
+
+
+### Day 13: Mar 10 2017
+
+**Today's Progress**: Finally completed the weather API challenge!
+
+**Thoughts**  Reinforced API calls with jQuery; using two API at the same time; converting values back and forth with click button; using Flag;
+
+**Link(s) to work**
+### Day 12: Mar 3 2017
+
+**Today's Progress**: Made good progress on the Weather API!
+
+**Thoughts**  Errors encountered: have to add jQuery library; delete http:// for codepen.io; work; Remember to add http:// before the requested API URL.
+
+**Link(s) to work** http://codepen.io/yuman959/pen/RprqKV
