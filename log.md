@@ -103,10 +103,10 @@ Getting more comfortable with quickly learning different method and apply it in 
 **Thoughts**  Reinforced API calls with jQuery; using two API at the same time; converting values back and forth with click button; using Flag;
 
 **Link(s) to work**
-### Day 12: Mar 3 2017
+### Day 14: Mar 18 2017
 
-**Today's Progress**: Made good progress on the Weather API!
+**Today's Progress**: Working on Wikipedia API challenge. Got the random article working. Trying to figure out the search query part
 
-**Thoughts**  Errors encountered: have to add jQuery library; delete http:// for codepen.io; work; Remember to add http:// before the requested API URL.
+**Thoughts**  Wikipedia API seems to be a lot more complex than previous ones based on how many query modules and info I want to fetch... May need another day or two to finalize it.
 
-**Link(s) to work** http://codepen.io/yuman959/pen/RprqKV
+**Link(s) to work** http://codepen.io/yuman959/pen/OpzQzK
