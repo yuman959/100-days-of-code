@@ -110,3 +110,10 @@ Getting more comfortable with quickly learning different method and apply it in 
 **Thoughts**  Wikipedia API seems to be a lot more complex than previous ones based on how many query modules and info I want to fetch... May need another day or two to finalize it.
 
 **Link(s) to work** http://codepen.io/yuman959/pen/OpzQzK
+
+## Day 15: May 3 2017
+
+**Today's Progress**: Finally completed the Wikipedia project after researching, experimenting and working with people
+
+**Thoughts**  Definitely learnt a lot in terms of researching bigger & more complex API documentation, trial and error, efficient ways to preview data in console etc.  
+**Link(s) to work** http://codepen.io/yuman959/pen/OpzQzK
