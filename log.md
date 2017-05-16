@@ -117,3 +117,11 @@ Getting more comfortable with quickly learning different method and apply it in 
 
 **Thoughts**  Definitely learnt a lot in terms of researching bigger & more complex API documentation, trial and error, efficient ways to preview data in console etc.  
 **Link(s) to work** http://codepen.io/yuman959/pen/OpzQzK
+
+
+## Day 16: May 16 2017
+
+**Today's Progress**: working on Twitch API
+
+**Thoughts**  Definitely takes a lot less time to figure this one out. Need to work on code efficiency;
+**Link(s) to work** https://codepen.io/yuman959/pen/wdXMgj
