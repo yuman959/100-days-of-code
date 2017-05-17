@@ -125,3 +125,10 @@ Getting more comfortable with quickly learning different method and apply it in 
 
 **Thoughts**  Definitely takes a lot less time to figure this one out. Need to work on code efficiency;
 **Link(s) to work** https://codepen.io/yuman959/pen/wdXMgj
+
+## Day 16: May 16 2017
+
+**Today's Progress**: Finished Twitch API
+
+**Thoughts**  Gitter is super helpful when I'm stuck. Lucky to have a community to support me!!! <3
+**Link(s) to work** http://codepen.io/yuman959/pen/wdXMgj?editors=1010
