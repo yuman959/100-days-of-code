@@ -126,9 +126,16 @@ Getting more comfortable with quickly learning different method and apply it in 
 **Thoughts**  Definitely takes a lot less time to figure this one out. Need to work on code efficiency;
 **Link(s) to work** https://codepen.io/yuman959/pen/wdXMgj
 
-## Day 16: May 16 2017
+## Day 17: May 16 2017
 
 **Today's Progress**: Finished Twitch API
 
-**Thoughts**  Gitter is super helpful when I'm stuck. Lucky to have a community to support me!!! <3
+**Thoughts**  Gitter is super helpful when I'm stuck. Lucky to have a community to support me!!! <3. Need to optimize my code when I have more time in future.
 **Link(s) to work** http://codepen.io/yuman959/pen/wdXMgj?editors=1010
+
+## Day 18: July 4 2017
+
+**Today's Progress**: Get stuck on Roman Numeral Converter for a while now...
+
+**Thoughts**  Had trouble establishing a reference table. Figure out array is the best way for that purpose. Now need to work on the logic to construct the roman numerals out of a number
+**Link(s) to work** 
