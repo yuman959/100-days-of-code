@@ -138,4 +138,11 @@ Getting more comfortable with quickly learning different method and apply it in 
 **Today's Progress**: Get stuck on Roman Numeral Converter for a while now...
 
 **Thoughts**  Had trouble establishing a reference table. Figure out array is the best way for that purpose. Now need to work on the logic to construct the roman numerals out of a number
-**Link(s) to work** 
+**Link(s) to work**
+
+## Day 19: August 15 2017
+
+**Today's Progress**: Finished where art tho & replace and search.
+
+**Thoughts**  Independently solved the replace & search exercise. Enjoy the process of research-learn-ask. Need to be more familiarize objects and array methods (filter, splice etc.)
+**Link(s) to work**
